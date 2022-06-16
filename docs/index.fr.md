@@ -2,6 +2,8 @@
 
 ![europython 2021 logo](assets/ep2021-logo.png)
 
+# Salut tout le monde
+
 ## Commandes
 
 * `mkdocs new [dir-name]` - Créer un nouveau projet.
